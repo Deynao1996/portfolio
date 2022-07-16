@@ -9,7 +9,18 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@react-three/drei": "^9.11.2",
+    "@react-three/fiber": "^8.0.10",
+    "@react-three/postprocessing": "^2.3.2",
+    "babel-plugin-glsl": "^1.0.0",
+    "glsl-noise": "0.0.0",
+    "glslify": "^7.1.1",
+    "postprocessing": "^6.26.4",
+    "three": "^0.139.2"
+  },
+  "devDependencies": {
+    "sass": "^1.38.0"
   },
   "scripts": {
     "start": "react-scripts start",
